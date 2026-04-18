@@ -1,6 +1,6 @@
 module ladder
 
-go 1.21.1
+go 1.26.2
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.1
